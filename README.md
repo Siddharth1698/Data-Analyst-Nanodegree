@@ -2,4 +2,4 @@
 
 Udacity data analyst nanodegree program.
 
-It has multiple projects related to this courses.
+It has multiple projects related to this course.
