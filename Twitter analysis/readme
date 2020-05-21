@@ -1,4 +1,4 @@
-**Introduction to project:**
+Introduction to project:
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The purpose of this project is to use twitter api to get the tweets from the users and then wrangle the data as part of data science work.
 
