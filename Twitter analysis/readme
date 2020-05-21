@@ -1,10 +1,10 @@
-Introduction to project: 
+**Introduction to project:**
 
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The purpose of this project is to use twitter api to get the tweets from the users and then wrangle the data as part of data science work.
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for me to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
-![WeRateDogs](https://static.boredpanda.com/blog/wp-content/uploads/2020/03/5-5e5e0dc82604e__700.jpg)
+Sample image : ![WeRateDogs](https://static.boredpanda.com/blog/wp-content/uploads/2020/03/5-5e5e0dc82604e__700.jpg)
 
 The following software requirements apply:
   Jupyter Notebook
